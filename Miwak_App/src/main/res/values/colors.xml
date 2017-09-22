@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4e1d0b</color>
+    <color name="colorPrimaryDark">#2b0d02</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorNumbers">#08800e</color>
+    <color name="colorFamily">#ff7300</color>
+    <color name="colorColors">#7e076e</color>
+    <color name="tanColor">#ffe6cd</color>
+    <color name="generateColor">#08800e</color>
+
+
+
+</resources>

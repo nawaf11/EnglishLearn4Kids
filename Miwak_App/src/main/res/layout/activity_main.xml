@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.nawaf.myapp2.ActivityDesign">
+
+    <TextView
+        style="@style/catagory_style"
+        android:text="Numbers"
+        android:id="@+id/nbs_txt"
+        android:background="@drawable/btn_shape"
+
+
+        />
+
+    <TextView
+        style="@style/catagory_style"
+        android:background="@color/colorFamily"
+        android:id="@+id/fam_txt"
+        android:text="Family" />
+    <TextView
+        style="@style/catagory_style"
+        android:id="@+id/clrs_txt"
+        android:background="@color/colorColors"
+        android:text="Colors" />
+</LinearLayout>
