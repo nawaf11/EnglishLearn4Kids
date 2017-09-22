@@ -1,7 +1,7 @@
 # EnglishLearn4Kids
 
-![Alt text](sh1.png?raw=true "Screenshot")
-![Alt text](sh2.png?raw=true "Screenshot")
+![Alt text](shc1.png?raw=true "Screenshot")
+![Alt text](shc2.png?raw=true "Screenshot")
 
 Simple app to learn kids how to speak/pronounce some words like Number/ Colors, So I used TextToSpeach Library.
 
